@@ -1,6 +1,9 @@
 public class CountFlipBits {
 
 
+    // this answer is same for counting the hamming distance between two numbers..
+
+
     //method to count the steps to convert a to b or vice versa
    public static int countFlipBits(int a, int b){
       //first of all take xor operator as the non similar will give 1 and the same ones will give 0
